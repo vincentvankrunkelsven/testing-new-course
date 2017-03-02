@@ -4,6 +4,13 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:c22003390a
+## New slide
+
+*** =slidesKey
+805e59983a9b9a7108577b1cbe1765f9
+
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:eb002b669e
 ## A really bad movie
 
@@ -14,6 +21,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 - Action
 - Animation
 - Comedy
+- Horror
 
 *** =hint
 Have a look at the plot. Which color does the point with the lowest rating have?
